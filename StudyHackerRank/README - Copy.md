@@ -1,2 +1,0 @@
-# StudyHackerRank
-# Hello Test 2
