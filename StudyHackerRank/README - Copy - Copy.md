@@ -1,2 +1,2 @@
 # StudyHackerRank
-# Hello Test 2
+# Hello Test
